@@ -38,3 +38,4 @@ Here's what MONTI does:
 Download the [MONTI application and accompanying documentation](https://go.microsoft.com/fwlink/p/?LinkId=248641) from the Microsoft Download Center.
 
 The documentation describes how to deploy, configure, and run the MONTI application in a customer's Domino environment.
+Here is a helpful resource to migrate Lotus Notes to Office 365 in hassle free manner - https://www.bitacube.com/lotus-notes-to-office-365-migration.html
